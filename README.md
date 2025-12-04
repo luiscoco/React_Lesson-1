@@ -6,6 +6,14 @@ An interactive educational application demonstrating fundamental React concepts 
 
 This project is a visual guide to understanding React components, built as a practical demonstration of the concepts from React's official documentation. It showcases how to build user interfaces using reusable components and proper React patterns.
 
+## Preview
+
+<img width="1256" height="450" alt="image" src="https://github.com/user-attachments/assets/0f1784fb-32ba-4ce5-b2d5-53f4f23f9b28" />
+
+<img width="1239" height="691" alt="image" src="https://github.com/user-attachments/assets/2d379d2e-70e9-4422-b3c0-fdc0a8cf227c" />
+
+<img width="1240" height="790" alt="image" src="https://github.com/user-attachments/assets/ff54e6ae-c7a4-46aa-a28c-02336326a20a" />
+
 ## Features
 
 ### 1. Component Definition Examples
